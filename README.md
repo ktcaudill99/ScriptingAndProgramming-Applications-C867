@@ -1,7 +1,9 @@
 # ScriptingAndProgramming-Applications-C867
 
 WGU
+
 Scripting and Programming - Applications – C867
+
 JYM1 — JYM1 TASK 1: CLASS ROSTER
 
 
