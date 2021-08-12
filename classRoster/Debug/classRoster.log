@@ -1,0 +1,6 @@
+﻿  classRoster.cpp
+C:\Users\Katie-BAMF\source\repos\classRoster\classRoster.cpp(43,19): warning C4101: 'degreeProgram': unreferenced local variable
+  roster.cpp
+  student.cpp
+  Generating Code...
+  classRoster.vcxproj -> C:\Users\Katie-BAMF\source\repos\classRoster\Debug\classRoster.exe
